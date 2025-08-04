@@ -1,0 +1,52 @@
+{
+  "districts": [
+    {
+      "name": "Hyderabad",
+      "cities": ["Hyderabad", "Secunderabad", "Cyberabad", "Old City", "Gachibowli", "Hitech City", "Banjara Hills", "Jubilee Hills"]
+    },
+    {
+      "name": "Rangareddy",
+      "cities": ["Shamshabad", "Rajendranagar", "Chevella", "Vikarabad", "Tandur", "Shadnagar", "Maheshwaram"]
+    },
+    {
+      "name": "Medchal-Malkajgiri",
+      "cities": ["Medchal", "Malkajgiri", "Kompally", "Quthbullapur", "Uppal", "Keesara", "Ghatkesar"]
+    },
+    {
+      "name": "Warangal Urban",
+      "cities": ["Warangal", "Kazipet", "Elkathurthy", "Atmakur", "Bachannapet", "Dharmasagar", "Geesugonda"]
+    },
+    {
+      "name": "Warangal Rural",
+      "cities": ["Parkal", "Parvathagiri", "Wardhannapet", "Duggondi", "Khanapur", "Raiparthy", "Sangem"]
+    },
+    {
+      "name": "Karimnagar",
+      "cities": ["Karimnagar", "Jagityal", "Choppadandi", "Vemulawada", "Huzurabad", "Manakondur", "Gangadhara"]
+    },
+    {
+      "name": "Nizamabad",
+      "cities": ["Nizamabad", "Bodhan", "Kamareddy", "Banswada", "Yellareddy", "Pitlam", "Balkonda"]
+    },
+    {
+      "name": "Khammam",
+      "cities": ["Khammam", "Kothagudem", "Yellandu", "Palvancha", "Madhira", "Wyra", "Sathupalli"]
+    },
+    {
+      "name": "Nalgonda",
+      "cities": ["Nalgonda", "Suryapet", "Miryalaguda", "Huzurnagar", "Kodad", "Bhongir", "Devarakonda"]
+    },
+    {
+      "name": "Mahbubnagar",
+      "cities": ["Mahbubnagar", "Gadwal", "Wanaparthy", "Nagarkurnool", "Alampur", "Koilkonda", "Mahabubnagar"]
+    },
+    {
+      "name": "Adilabad",
+      "cities": ["Adilabad", "Mancherial", "Nirmal", "Bellampalle", "Kyathampalle", "Mandamarri", "Luxettipet"]
+    },
+    {
+      "name": "Sangareddy",
+      "cities": ["Sangareddy", "Zaheerabad", "Narayankhed", "Patancheru", "Gajwel", "Jharasangam", "Andole"]
+    }
+  ]
+}
