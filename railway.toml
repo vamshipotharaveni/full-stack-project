@@ -1,0 +1,13 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "java -jar target/rental-finder-backend-0.0.1-SNAPSHOT.jar"
+healthcheckPath = "/api/auth/signin"
+healthcheckTimeout = 60
+
+[environments.production]
+variables = { }
+
+[environments.production.deploy]
+startCommand = "java -jar target/rental-finder-backend-0.0.1-SNAPSHOT.jar --server.port=$PORT"
