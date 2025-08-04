@@ -1,0 +1,274 @@
+{
+  "Adilabad": [
+    "Adilabad",
+    "Utnoor",
+    "Boath",
+    "Jainath",
+    "Tamsi",
+    "Sirpur"
+  ],
+  "Bhadradri Kothagudem": [
+    "Kothagudem",
+    "Bhadrachalam",
+    "Yellandu",
+    "Manuguru",
+    "Palwancha",
+    "Pinapaka"
+  ],
+  "Hanumakonda": [
+    "Hanamkonda",
+    "Warangal",
+    "Kazipet",
+    "Parkal",
+    "Inavolu",
+    "Atmakur"
+  ],
+  "Hyderabad": [
+    "Hyderabad",
+    "Secunderabad",
+    "Kukatpally",
+    "Uppal",
+    "Jubilee Hills",
+    "Banjara Hills",
+    "Begumpet",
+    "Somajiguda",
+    "Ameerpet",
+    "Madhapur"
+  ],
+  "Jagtial": [
+    "Jagtial",
+    "Korutla",
+    "Metpally",
+    "Dharmapuri",
+    "Gollapally",
+    "Ibrahimpatnam"
+  ],
+  "Jangaon": [
+    "Jangaon",
+    "Station Ghanpur",
+    "Lingala Ghanpur",
+    "Narmetta",
+    "Bachannapet",
+    "Raghunathpally"
+  ],
+  "Jayashankar Bhupalpally": [
+    "Bhupalpally",
+    "Mulugu",
+    "Eturunagaram",
+    "Mahabubabad",
+    "Thorrur",
+    "Regonda"
+  ],
+  "Jogulamba Gadwal": [
+    "Gadwal",
+    "Ieeja",
+    "Undavalli",
+    "Manopad",
+    "Rajoli",
+    "Alampur"
+  ],
+  "Kamareddy": [
+    "Kamareddy",
+    "Banswada",
+    "Yellareddy",
+    "Bhiknoor",
+    "Domakonda",
+    "Machareddy"
+  ],
+  "Karimnagar": [
+    "Karimnagar",
+    "Huzurabad",
+    "Vemulawada",
+    "Manakondur",
+    "Choppadandi",
+    "Husnabad"
+  ],
+  "Khammam": [
+    "Khammam",
+    "Kallur",
+    "Madhira",
+    "Sattupalli",
+    "Wyra",
+    "Kothagudem"
+  ],
+  "Kumuram Bheem Asifabad": [
+    "Asifabad",
+    "Kagaznagar",
+    "Sirpur",
+    "Kerameri",
+    "Wankidi",
+    "Rebbena"
+  ],
+  "Mahabubabad": [
+    "Mahabubabad",
+    "Thorrur",
+    "Garla",
+    "Bayyaram",
+    "Kuravi",
+    "Nellikudur"
+  ],
+  "Mahabubnagar": [
+    "Mahabubnagar",
+    "Gadwal",
+    "Wanaparthy",
+    "Narayanpet",
+    "Alampur",
+    "Kollapur"
+  ],
+  "Mancherial": [
+    "Mancherial",
+    "Bellampally",
+    "Kyathampally",
+    "Jaipur",
+    "Luxettipet",
+    "Naspur"
+  ],
+  "Medak": [
+    "Medak",
+    "Narsapur",
+    "Toopran",
+    "Gajwel",
+    "Dubbak",
+    "Shankarampet"
+  ],
+  "Medchal-Malkajgiri": [
+    "Malkajgiri",
+    "Keesara",
+    "Shamirpet",
+    "Medchal",
+    "Kompally",
+    "Dundigal"
+  ],
+  "Mulugu": [
+    "Mulugu",
+    "Venkatapur",
+    "Govindaraopet",
+    "Wazeedu",
+    "Tadvai",
+    "Mangapet"
+  ],
+  "Nagarkurnool": [
+    "Nagarkurnool",
+    "Achampet",
+    "Kalwakurthy",
+    "Kollapur",
+    "Utkoor",
+    "Bijinapally"
+  ],
+  "Nalgonda": [
+    "Nalgonda",
+    "Miryalaguda",
+    "Devarakonda",
+    "Chandur",
+    "Nakrekal",
+    "Bhongir"
+  ],
+  "Narayanpet": [
+    "Narayanpet",
+    "Makthal",
+    "Maganoor",
+    "Dhanwada",
+    "Utkoor",
+    "Damaragidda"
+  ],
+  "Nirmal": [
+    "Nirmal",
+    "Bhainsa",
+    "Mamada",
+    "Khanapur",
+    "Laxmanchanda",
+    "Kuntala"
+  ],
+  "Nizamabad": [
+    "Nizamabad",
+    "Bodhan",
+    "Armoor",
+    "Kamareddy",
+    "Banswada",
+    "Dichpally"
+  ],
+  "Peddapalli": [
+    "Peddapalli",
+    "Manthani",
+    "Ramagundam",
+    "Godavarikhani",
+    "Sultanabad",
+    "Julapally"
+  ],
+  "Rajanna Sircilla": [
+    "Sircilla",
+    "Vemulawada",
+    "Konaraopet",
+    "Yellareddypet",
+    "Gambhiraopet",
+    "Boinpally"
+  ],
+  "Ranga Reddy": [
+    "Rangareddy",
+    "Chevella",
+    "Ibrahimpatnam",
+    "Rajendranagar",
+    "Shadnagar",
+    "Kandukur",
+    "Shamshabad",
+    "Maheshwaram"
+  ],
+  "Sangareddy": [
+    "Sangareddy",
+    "Patancheru",
+    "Zaheerabad",
+    "Narayankhed",
+    "Jogipet",
+    "Kalher"
+  ],
+  "Siddipet": [
+    "Siddipet",
+    "Gajwel",
+    "Husnabad",
+    "Dubbaka",
+    "Kondapak",
+    "Chinnakodur"
+  ],
+  "Suryapet": [
+    "Suryapet",
+    "Kodad",
+    "Huzurnagar",
+    "Mellacheruvu",
+    "Munagala",
+    "Nadigudem"
+  ],
+  "Vikarabad": [
+    "Vikarabad",
+    "Tandur",
+    "Bantwaram",
+    "Kodangal",
+    "Peddemul",
+    "Pargi"
+  ],
+  "Wanaparthy": [
+    "Wanaparthy",
+    "Pebbair",
+    "Atmakur",
+    "Kothakota",
+    "Revally",
+    "Gopalpet"
+  ],
+  "Warangal": [
+    "Warangal",
+    "Narsampet",
+    "Mahabubabad",
+    "Geesugonda",
+    "Raiparthy",
+    "Chennaraopet"
+  ],
+  "Yadadri Bhuvanagiri": [
+    "Bhongir",
+    "Choutuppal",
+    "Alair",
+    "Bibinagar",
+    "Yadagirigutta",
+    "Ramannapeta",
+    "Valigonda",
+    "Motakondur"
+  ]
+}
