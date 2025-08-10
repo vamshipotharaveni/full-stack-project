@@ -1,0 +1,11 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+healthcheckPath = "/api/rentals/health"
+healthcheckTimeout = 300
+restartPolicyType = "on_failure"
+restartPolicyMaxRetries = 3
+
+[env]
+MAVEN_OPTS = "-Xmx2048m"
